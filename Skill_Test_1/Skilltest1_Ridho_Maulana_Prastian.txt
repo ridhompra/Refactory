@@ -1,0 +1,4 @@
+Nama : Ridho Maulana Prastian
+Umur : 22 Tahun
+Stack: Backend
+Bahasa pemograman : Golang
